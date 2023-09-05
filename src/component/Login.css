@@ -1,0 +1,54 @@
+.login-container {
+    background-color: rgb(106, 200, 200);
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #d1c9ff;
+    border-radius: 3px;
+  }
+  
+  button {
+    background-color: #462bcd;
+    color: #14e701;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+ #name
+ {
+  color: black;
+ }
+ #online
+ {
+  color: black;
+ }
+ #user
+ {
+  color: blueviolet;
+ }
+ #signup
+ {
+  color: rgb(183, 79, 79);
+  position: absolute;
+  transform: translate(450px,-450px);
+ }

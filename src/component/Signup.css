@@ -1,0 +1,26 @@
+
+#signuppage
+{
+    color: rgb(66, 216, 28);
+}
+#signuppage1
+{
+    color: red;
+}
+#form
+{
+    position: absolute;
+    transform: translate(-100px,-290px);
+    height: 100px;
+}
+#img
+{
+    position: absolute;
+    transform: translate(-633px,-323px);
+    width: 1270px;
+    height: 650px;
+}
+#log
+{
+    color: rgb(241, 8, 47);
+}

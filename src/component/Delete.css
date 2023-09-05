@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(87, 124, 121);
+}
+#finalbox
+{
+    position: absolute;
+    transform: translate(-190px,-160px);
+    background-color: rgb(90, 185, 88);
+    width: 400px;
+}
+#booking
+{
+    position: absolute;
+    transform: translate(-180px,-280px);
+    color: white;
+}
+#imgage
+{
+    width: 400px;
+}
+#bid
+{
+    color: black;
+}

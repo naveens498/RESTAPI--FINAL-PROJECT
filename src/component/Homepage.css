@@ -1,0 +1,10 @@
+body
+{
+    background-color: rgb(97, 164, 164);
+}
+#head
+{
+    position: absolute;
+    transform: translate(250px,100px);
+    color: black;
+}
